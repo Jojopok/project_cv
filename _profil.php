@@ -1,4 +1,4 @@
-<div class="photobox"></div>
+<div class="photobox">
 <img class="photogroot" src="assets/images/Groot1.jpg" alt="Photo de profil de Groot"/>
 </div>
 <div class="titre">
