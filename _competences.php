@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -9,3 +10,7 @@
 <h2>Competences</h2>
 
 <p>Hellooo</p>
+=======
+<div class="photobox"></div>
+<img class="photogroot" src=
+>>>>>>> 847550916ce5dd054c6717fb0ea784f6f845ec66
