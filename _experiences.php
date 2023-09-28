@@ -1,33 +1,38 @@
 <div class="photob"></div>
-<img class="photog" src="images/GrootExpe.jpg" alt="Photo de Groot"/>
+
+<img class="photog" src="assets/images/grootExpe.jpeg" alt="Photo de Groot"/>
 </div>
 <div class="titreExp">
-    <ul>
-    <li>Expérience</li>
-    </ul>
+    Expérience
 </div>
-<div class="textexp">
-    <p>  <br><br>
-    "2023-présent
+<div class="divtext">
+   
+   <h3>2023-présent</h3> 
+    <br><br>
+<p>
+Rôle : Gardien de la Galaxie<br>
+Entreprise : Les Gardiens de la Galaxie<br>
+Lieu :  Partout dans l'univers<br><br>
 
-Rôle : Gardien de la Galaxie
-Entreprise : Les Gardiens de la Galaxie
-Lieu :  Partout dans l'univers
 
-Missions :
- > Protéger l'univers des menaces
- > Combattre les forces du mal
- > Aider les innocents
+Missions : <br>
+ > Protéger l'univers des menaces <br>
+ > Combattre les forces du mal <br>
+ > Aider les innocents <br>
+ <br><br>
+ </p>
 
-2014-2022
+<h3>2014-2022</h3>
+<p>
+<br>
+Rôle : Soldat <br>
+Entreprise : L'Empire Kree <br>
+Lieu : Partout dans l'univers <br>
+<br><br>
+Missions :<br>
 
-Rôle : Soldat
-Entreprise : L'Empire Kree
-Lieu : Partout dans l'univers
+> Combattre les ennemis de l'Empire<br>
+> Protéger les intérêts de l'Empire<br>
+> Soutenir le règne de Ronan l'Accusateur <br> </p>
 
-Missions :
-
-> Combattre les ennemis de l'Empire
-> Protéger les intérêts de l'Empire
-> Soutenir le règne de Ronan l'Accusateur"</p>
 </div>
