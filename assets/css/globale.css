@@ -27,7 +27,7 @@
 
 .titre {
     background-color: var(--box-color);
-    text-shadow: #ea9b38 2px 0 12px;
+    text-shadow: (--text-color) 2px 0 12px;
     padding: 0.5rem;
     margin: 2.5rem;
     color: #614942;
