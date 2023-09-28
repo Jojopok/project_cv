@@ -8,20 +8,19 @@
     background-color: #E7E7E7;
   }
  
- .photogroot {   
+ .photogrootjohn {   
     display: block;
-    margin: auto;
-    width: 50%;
+    margin-top: 1rem;
     border-radius: 70%;
     justify-content : center;
     box-shadow: 0 0 10px black;
 }
 
-  .photobox {
+  .photoboxjohn {
     display : flex;
     justify-content : center;
     align-items: center;
-    padding: 3rem;
+    padding-top: 5rem;
   }
 
 
