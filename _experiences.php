@@ -1,4 +1,5 @@
 <div class="photob"></div>
+
 <img class="photog" src="assets/images/grootExpe.jpeg" alt="Photo de Groot"/>
 </div>
 <div class="titre">
@@ -13,6 +14,7 @@
 Rôle : Gardien de la Galaxie
 Entreprise : Les Gardiens de la Galaxie
 Lieu :  Partout dans l'univers
+
 
 Missions : <br>
  > Protéger l'univers des menaces <br>
@@ -30,4 +32,5 @@ Missions :<br><br>
 > Combattre les ennemis de l'Empire<br>
 > Protéger les intérêts de l'Empire<br>
 > Soutenir le règne de Ronan l'Accusateur <br> </p>
+
 </div>
