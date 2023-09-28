@@ -30,3 +30,23 @@
     align-items: center;
     
   }
+
+  .skillbox {
+    padding: 1.5rem;
+    margin: 2.5rem;
+    color: var( --text-color);
+    border: none;
+    border-radius: 10px;
+    float: center;
+    height: 35rem;
+    font-size: 1.2rem;
+    font-family: "inter", sans-serif;
+    box-shadow: 0 0 10px black;
+    overflow: hidden;
+    height: auto;
+  }
+
+  .skill-list {
+    list-style-type: none;
+
+  }
