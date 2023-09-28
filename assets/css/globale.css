@@ -3,6 +3,10 @@
     padding: 0%;
     box-sizing: border-box;
   }
+
+  body {
+    background-color: #E7E7E7;
+  }
  
  .photogroot {   
     display: block;
@@ -14,26 +18,26 @@
 }
 
   .photobox {
-   display : flex;
+    display : flex;
     justify-content : center;
     align-items: center;
-    
+    padding: 3rem;
   }
 
 
 .titre {
-    background-color: #C3D295;
-    line-height: 130%;
+    background-color: var(--box-color);
     text-shadow: #ea9b38 2px 0 12px;
     padding: 0.5rem;
-    margin: 5rem;
+    margin: 2.5rem;
     color: #614942;
     border: none;
     border-radius: 10px;
     float: center;
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     font-family: "inter", sans-serif;
     box-shadow: 0 0 10px black;
+    font-weight: bold;
   }
 
   .titre > ul {
@@ -46,7 +50,7 @@
   .divtextprofil {
     background-color:#C3D295;
     padding: 1.5rem;
-    margin: 5rem;
+    margin: 2.5rem;
     color: #614942;
     border: none;
     border-radius: 10px;
@@ -55,7 +59,8 @@
     font-size: 1.2rem;
     font-family: "inter", sans-serif;
     box-shadow: 0 0 10px black;
-    
+    overflow: hidden;
+    height: auto;
   }
 
   .divtextprofil > p {
