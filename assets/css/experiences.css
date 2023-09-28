@@ -19,7 +19,10 @@
   }
 
 
-  .titre{
+  .titreExp{
+    display : flex;
+    justify-content : center;
+    align-items: center;
     background-color: #C3D295;
     line-height: 130%;
     text-shadow: #ea9b38 2px 0 12px;
@@ -31,7 +34,7 @@
     float: center;
     font-size: 1.75rem;
     font-family: "inter", sans-serif;
-    display: flex;
+    
     align-items: center;
   }
 
@@ -47,9 +50,6 @@
     height: 35rem;
     font-size: 1.2rem;
     font-family: "inter", sans-serif;
-
-    display: flex;
-    justify-content: space-around;
     
     
   }

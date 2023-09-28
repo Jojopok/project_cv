@@ -2,18 +2,17 @@
 
 <img class="photog" src="assets/images/grootExpe.jpeg" alt="Photo de Groot"/>
 </div>
-<div class="titre">
-    <li>Expérience</li>
+<div class="titreExp">
+    Expérience
 </div>
 <div class="divtext">
    
-    <p>   
-    2023-présent
+   <h3>2023-présent</h3> 
     <br><br>
-
-Rôle : Gardien de la Galaxie
-Entreprise : Les Gardiens de la Galaxie
-Lieu :  Partout dans l'univers
+<p>
+Rôle : Gardien de la Galaxie<br>
+Entreprise : Les Gardiens de la Galaxie<br>
+Lieu :  Partout dans l'univers<br><br>
 
 
 Missions : <br>
@@ -21,13 +20,16 @@ Missions : <br>
  > Combattre les forces du mal <br>
  > Aider les innocents <br>
  <br><br>
-2014-2022
-<br><br>
+ </p>
+
+<h3>2014-2022</h3>
+<p>
+<br>
 Rôle : Soldat <br>
 Entreprise : L'Empire Kree <br>
 Lieu : Partout dans l'univers <br>
-<br>
-Missions :<br><br>
+<br><br>
+Missions :<br>
 
 > Combattre les ennemis de l'Empire<br>
 > Protéger les intérêts de l'Empire<br>
