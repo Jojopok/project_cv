@@ -2,7 +2,7 @@
 
 
 <div class="photobox">
-<img class="photogroot" src="assets/images/Groot Loisirs.jpg" alt="Photo Loisirs Groot"/>
+<img class="photogroot" src="assets/images/Groot_loisirs.jpg" alt="Photo Loisirs Groot"/>
 </div>
 
 <p> Danse </p>
