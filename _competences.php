@@ -1,4 +1,4 @@
-</div class="photoboxMartha">
+<div class="photoboxMartha">
 <img class="photogrootMartha" src="assets/images/GrootComp.jpg"/>
 </div>
 <div class="titre-competences">
