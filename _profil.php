@@ -1,5 +1,5 @@
-<div class="photobox"></div>
-<img class="photogroot" src="assets/images/Groot1.jpg" alt="Photo de profil de Groot"/>
+<div class="photoboxjohn">
+<img class="photogrootjohn" src="assets/images/Groot1.jpg" alt="Photo de profil de Groot"/>
 </div>
 <div class="titre">
     <ul>
@@ -8,10 +8,15 @@
     </ul>
 </div>
 <div class="divtextprofil">
-    <p> I am groot,   <br><br>
-I am groot, I am groot, I am groot. <br> <br>am groot, I am groot,I am groot, I am groot,I am groot, I am groot,I am groot. I am groot, I am groot,I am groot. I am groot,I am groot, I am groot.<br> <br>
- I am groot, I am groot, I am groot, I am groot,I am groot, I am groot,I am groot.<br> <br>
- I am I am groot, I am groot, I am groot,I am groot, I am groot,I am groot, I am groot,I am groot, I am groot,I am groot.I am groot, I am groot,I am groot.<br><br>
-  I am groot,ddI am groot, I am groot.I am groot, I am groot. <br><br>
- We are groot.</p>
+    <p>Je s'apelle Groot<br>
+    <br>
+    Arbre sentient 
+    <br> 
+    <br>Né en 1988 sur la planète Xandar, je suis un arbre sentient.
+Fort, résistant et capable de guérir, je peux aussi contrôler la croissance des plantes.
+Membre des Gardiens de la Galaxie depuis 2014, je suis loyal, protecteur et dévoué à mes <br>
+<br>
+Je peux être un peu lent à comprendre et j'ai tendance à répéter la même chose.
+Je suis un membre précieux des Gardiens de la Galaxie, un guerrier courageux et un ami fidèle. Je suis toujours prêt à me battre pour ce qui est juste et à protéger mes amis.
+Un arbre qui ne recule devant rien.</p>
 </div>

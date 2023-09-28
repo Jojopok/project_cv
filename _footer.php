@@ -1,13 +1,16 @@
 <footer>
-    <p><h4>adress</h4><br>
+<div class="divtextfooter">
+    <p>  <h4>adress</h4><br>
      PLanet Kree 
     </p>
     <p><h4>phone</h4><Br>
-    455987987987
+    4559879
 </p>
 <p><h4>Email adress</h4><br>
-     Groot@Grootworld
-</p>
+     Groot@Grootworld </p>
 
+</div>
+
+   
 
     

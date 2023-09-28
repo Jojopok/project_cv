@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+ 
+ .photog {   
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 70%;
+    justify-content : center;
+}
+
+  .photob {
+   display : flex;
+    justify-content : center;
+    align-items: center;
+  }
+
+
+  .titreExp{
+    display : flex;
+    justify-content : center;
+    align-items: center;
+    background-color: #C3D295;
+    line-height: 130%;
+    text-shadow: #ea9b38 2px 0 12px;
+    padding: 0.5rem;
+    margin: 5rem;
+    color: #614942;
+    border: none;
+    border-radius: 10px;
+    float: center;
+    font-size: 1.75rem;
+    font-family: "inter", sans-serif;
+    
+    align-items: center;
+  }
+
+
+  .divtext {
+    background-color:#C3D295;
+    padding: 1.5rem;
+    margin: 5rem;
+    color: #614942;
+    border: none;
+    border-radius: 10px;
+    float: center;
+    height: 35rem;
+    font-size: 1.2rem;
+    font-family: "inter", sans-serif;
+    
+    
+  }

@@ -8,29 +8,28 @@
     background-color: #E7E7E7;
   }
  
- .photogroot {   
+ .photogrootjohn {   
     display: block;
-    margin: auto;
-    width: 50%;
+    margin-top: 1rem;
     border-radius: 70%;
     justify-content : center;
     box-shadow: 0 0 10px black;
 }
 
-  .photobox {
-   display : flex;
+  .photoboxjohn {
+    display : flex;
     justify-content : center;
     align-items: center;
-    
+    padding-top: 5rem;
   }
 
 
 .titre {
     background-color: var(--box-color);
-    text-shadow: #ea9b38 2px 0 12px;
+    text-shadow: var(--text-color) 2px 0 12px;
     padding: 0.5rem;
     margin: 2.5rem;
-    color: #614942;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     float: center;
