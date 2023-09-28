@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 </div class="photobox">
 <img class="photogroot" src="assets/images/GrootComp.jpg"/>
 </div>
