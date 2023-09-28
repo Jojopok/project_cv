@@ -9,13 +9,7 @@
 
 }
 
-* {
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-  }
-
-.titre {
+.titreloisir {
     background-color: var(--box-color);
     text-shadow:var(--text-color) 2px 0 12px;
     padding: 0.5rem;
@@ -30,7 +24,7 @@
     font-weight: bold;
   }
 
-  .photogroot {   
+  .photo {   
     display: block;
     margin: auto;
     width: 50%;
@@ -39,10 +33,21 @@
     box-shadow: 0 0 10px black;
 }
 
-.photobox {
+.photogrootloisir {
   display : flex;
   justify-content : center;
   align-items: center;
   padding: 3rem;
 }
+section {
+  padding: 0.5rem;
+  margin: 0 auto;
+  max-width: 65ch;
+}
 
+section.loisir {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr ;
+}
