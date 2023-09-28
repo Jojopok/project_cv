@@ -19,19 +19,19 @@
     box-shadow: 0 0 10px black;
   }
 
-  .photogroot {   
+  .photogrootMartha {   
     display: block;
-    margin: auto;
-    width: 50%;
+    margin-top: 1rem;
     border-radius: 70%;
-    justify-content : center;
+    justify-content: center;
     box-shadow: 0 0 10px black;
 }
 
-  .photobox {
-   display : flex;
+  .photoboxMartha {
+    display : flex;
     justify-content : center;
     align-items: center;
+    padding-top: 5rem;
     
   }
 
