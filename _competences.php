@@ -1,16 +1,32 @@
-<<<<<<< HEAD
 
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CV Groot</title>
-    <link rel="stylesheet" href="assets/css/variables.css">
-<h2>Competences</h2>
+<div class="photob"></div>
+<img class="photog" src="" alt="Photo de Groot"/>
+</div>
+<div class="titre">
+    <li>Expérience</li>
+</div>
+<div class="divtext">
+    <p>   
+    2023-présent<br><br>
 
-<p>Hellooo</p>
-=======
-<div class="photobox"></div>
-<img class="photogroot" src=
->>>>>>> 847550916ce5dd054c6717fb0ea784f6f845ec66
+Rôle : Gardien de la Galaxie
+Entreprise : Les Gardiens de la Galaxie
+Lieu :  Partout dans l'univers
+
+Missions :
+ > Protéger l'univers des menaces
+ > Combattre les forces du mal
+ > Aider les innocents
+
+2014-2022
+
+Rôle : Soldat
+Entreprise : L'Empire Kree
+Lieu : Partout dans l'univers
+
+Missions :
+
+> Combattre les ennemis de l'Empire
+> Protéger les intérêts de l'Empire
+> Soutenir le règne de Ronan l'Accusateur</p>
+</div>
