@@ -1,0 +1,32 @@
+.titre-competences {
+    background-color: #C3D295;
+    line-height: 130%;
+    text-shadow: #ea9b38 2px 0 12px;
+    padding: 0.5rem;
+    margin: 5rem;
+    color: #614942;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.75rem;
+    font-family: "inter", sans-serif;
+    box-shadow: 0 0 10px black;
+  }
+
+  .photogroot {   
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 70%;
+    justify-content : center;
+    box-shadow: 0 0 10px black;
+}
+
+  .photobox {
+   display : flex;
+    justify-content : center;
+    align-items: center;
+    
+  }
