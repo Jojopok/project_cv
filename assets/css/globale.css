@@ -8,7 +8,7 @@
     background-color: #E7E7E7;
   }
  
- .photogroot {   
+ .photogrootjohn {   
     display: block;
     margin-top: 1rem;
     border-radius: 70%;
@@ -16,7 +16,7 @@
     box-shadow: 0 0 10px black;
 }
 
-  .photobox {
+  .photoboxjohn {
     display : flex;
     justify-content : center;
     align-items: center;

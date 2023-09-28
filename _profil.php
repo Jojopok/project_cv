@@ -1,5 +1,5 @@
-<div class="photobox">
-<img class="photogroot" src="assets/images/Groot1.jpg" alt="Photo de profil de Groot"/>
+<div class="photoboxjohn">
+<img class="photogrootjohn" src="assets/images/Groot1.jpg" alt="Photo de profil de Groot"/>
 </div>
 <div class="titre">
     <ul>
