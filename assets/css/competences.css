@@ -3,20 +3,21 @@
   padding: 0%;
   box-sizing: border-box;
 }
+
 .titre-competences {
-    background-color: #C3D295;
-    line-height: 130%;
+    background-color: var(--box-color);
+    text-shadow: var(--text-color) 2px 0 12px;
     padding: 0.5rem;
-    margin: 5rem;
-    color: #614942;
+    margin: 2.5rem;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-items: center;
-    font-size: 1.75rem;
+    font-size: 1.25rem;
     font-family: "inter", sans-serif;
     box-shadow: 0 0 10px black;
+    font-weight: bold;
   }
 
   .photogrootMartha {   
@@ -60,7 +61,8 @@
   
   section.skill-rating {
     color: var(--text-color);
-    padding: .5rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
     border-radius: .5rem;
     background-color: var(--box-color);
     box-shadow: -2px 5px 10px rgb(0 0 0 / 20%);
@@ -69,13 +71,14 @@
   .branch {
     padding: .5rem;
     border-radius: .5rem;
-    background-color: white;
+    background-color: var(--light-primary-color);
     box-shadow: -2px 5px 10px rgb(0 0 0 / 20%);
   }
   
   .left {
     margin-top: 0.5rem, 0;
   }
+
   
   
   

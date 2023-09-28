@@ -6,25 +6,44 @@
 </div>
 <section class="skill-rating" id="skill-rating">
     <skill>
-        <h1>Jardinage</h1>
+        <p>Jardinage</p>
     </skill>
     <skill>
-        <h1 class="branch">Branch</h1>
+        <p class="branch">Branch</p>
     </skill>
     <skill>
-      <h1>Botaniste</h1>
+      <p>Botaniste</p>
     </skill>
     <skill>
-        <h1 class="branch">Branch</h1>
+        <p class="branch">Branch</p>
     </skill>
     <skill>
-        <h1>Regeneriste</h1>
+        <p>Regeneriste</p>
     </skill>
     <skill>
-        <h1 class="branch">Branch</h1>
+        <p class="branch">Branch</p>
     </skill>
 </section>
-  
+<section class="skill-rating" id="skill-rating">
+    <skill>
+        <p>Comedie</p>
+    </skill>
+    <skill>
+        <p class="branch">Branch</p>
+    </skill>
+    <skill>
+      <p>Management</p>
+    </skill>
+    <skill>
+        <p class="branch">Branch</p>
+    </skill>
+    <skill>
+        <p>Linguistiques</p>
+    </skill>
+    <skill>
+    <p class="branch">Branch</p>
+    </skill>
+</section>
 
 
 
