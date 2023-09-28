@@ -1,11 +1,15 @@
-<h2 class=titre>Loisirs</h2>
+<h2 class=titreloisir>Loisirs</h2>
 
 
-<div class="photobox">
-<img class="photogroot" src="assets/images/Groot_loisirs.jpg" alt="Photo Loisirs Groot"/>
+<div class="photo">
+<img class="photogrootloisir" src="assets/images/Groot_loisirs.jpg" alt="Photo Loisirs Groot"/>
 </div>
 
-<p> Danse </p>
-<p> Tir Sportif </p>
-<p> Jeux Vidéos </p>
-<p> Sieste </p>
+<section class="loisir">
+
+<h1<img class=" photogrootdance" src ="assets/images/Groot_dance.jpg">Danse</h1> 
+<h1> Tir Sportif </h1>
+<h1> Jeux Vidéos </h1>
+<h1> Sieste </h1>
+
+</section>
