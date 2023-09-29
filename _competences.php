@@ -1,3 +1,9 @@
+<div class="photoboxMartha">
+<img class="photogrootMartha" src="assets/images/GrootComp.jpg"/>
+</div>
+<div class="titre-competences">
+    <h2>Compétences</h2>
+</div>
 <section class="skill-rating" id="skill-rating">
     <skill>
         <p>Jardinage</p>
