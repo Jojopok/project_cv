@@ -9,6 +9,7 @@
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
     box-shadow: 0 0 10px black;
+    z-index: 10
   }
 
   .navbar ul {
@@ -24,4 +25,5 @@
     padding: 0.75rem;
     font-weight: bold;
     font-size: 3vw;
+    list-style-type: none;
   }
