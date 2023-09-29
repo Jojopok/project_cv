@@ -1,52 +1,51 @@
-<<<<<<< HEAD
-
-
-    <link rel="stylesheet" href="assets/css/competences.css">
-    </div class="photobox">
-    <img class="photogroot" src="assets/images/GrootComp.jpg"/>
-=======
-</div class="photobox">
-<img class="photogroot" src="assets/images/GrootComp.jpg"/>
->>>>>>> fb9ee23ac4e032a233f7ca5039a06d0b8f55b00c
+<div class="photoboxMartha">
+<img class="photogrootMartha" src="assets/images/GrootComp.jpg"/>
 </div>
 <div class="titre-competences">
     <h2>Compétences</h2>
 </div>
-<<<<<<< HEAD
 <section class="skill-rating" id="skill-rating">
     <skill>
-        <h1>Jardinage</h1>
+        <p>Jardinage</p>
     </skill>
     <skill>
-        <h1 class="branch">Branch</h1>
+        <p class="branch">Branch</p>
     </skill>
     <skill>
-      <h1>Botaniste</h1>
+      <p>Botaniste</p>
     </skill>
     <skill>
-        <h1 class="branch">Branch</h1>
+        <p class="branch">Branch</p>
     </skill>
     <skill>
-        <h1>Regeneriste</h1>
+        <p>Regeneriste</p>
     </skill>
     <skill>
-        <h1 class="branch">Branch</h1>
+        <p class="branch">Branch</p>
     </skill>
 </section>
-  
+<section class="skill-rating" id="skill-rating">
+    <skill>
+        <p>Comedie</p>
+    </skill>
+    <skill>
+        <p class="branch">Branch</p>
+    </skill>
+    <skill>
+      <p>Management</p>
+    </skill>
+    <skill>
+        <p class="branch">Branch</p>
+    </skill>
+    <skill>
+        <p>Linguistiques</p>
+    </skill>
+    <skill>
+    <p class="branch">Branch</p>
+    </skill>
+</section>
 
 
 
 
-=======
-<div class="skillbox">
-  <ul>
-<li>Jardinage</li>
-<li>Botaniste</li>
-<li>Regeneriste</li>
-<li>Comedie</li>
-<li>Management</li>
-<li>Linguistiques</li>
-  </ul>  
-</div>
->>>>>>> fb9ee23ac4e032a233f7ca5039a06d0b8f55b00c
+
