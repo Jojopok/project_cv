@@ -13,26 +13,26 @@
       ?>
     </header>
     <main>
-      <div>
+      <div id="profil">
       <?php
        include "_profil.php"; 
       ?>
       </div>
-      <div>
+      <div id="competences">
       <?php
        include "_competences.php"; 
       ?>
       </div>
-      <div>
+      <div id="experiences">
       <?php
        include "_experiences.php"; 
       ?>
       </div>
-      <div>
+      <div id="formation">
       <?php
        include "_formation.php"; 
       ?>
-      </div>
+      </div id="loisirs">
       <div>
       <?php
        include "_loisirs.php"; 
