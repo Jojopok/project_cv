@@ -45,8 +45,9 @@
 .photogrootloisir {
   display: block;
   margin: auto;
-  width: 40%;
+  width: 15rem;
   border-radius: 70%;
+  height: 15rem;
   justify-content : center;
   box-shadow: 0 0 10px black;
 }

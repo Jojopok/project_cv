@@ -8,16 +8,16 @@
 <section 
 class="loisirs">
 <loisir>
-    <h3><loisir1>Danse</loisir1></h3>
+    <h3><div class= loisir1>Danse</div></h3>
 </loisir>
 <loisir>
-    <h3><loisir2>Tir Sportif</loisir2></h3>
+    <h3><div class = loisir2>Tir Sportif</div></h3>
 </loisir>
 <loisir>
-    <h3><loisir3>Jeux Vidéos</loisir3></h3>
+    <h3><div class =loisir3>Jeux Vidéos</div></h3>
 </loisir>
 <loisir>
-    <h3><loisir4>Sieste</loisir4></h3>
+    <h3><div class =loisir4>Sieste</div></h3>
 </loisir>
 
 </section>
