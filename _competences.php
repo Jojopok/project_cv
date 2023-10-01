@@ -1,5 +1,4 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="photoboxMartha">
 <img class="photogrootMartha" src="assets/images/GrootComp.jpg"/>
 </div>
@@ -11,7 +10,7 @@
         <p>Jardinage</p>
     </skill>
     <skill>
-    <p class="branch">Branch</p>
+    <div class="parallelogram"></div>
     </skill>
     <skill>
       <p>Botaniste</p>
