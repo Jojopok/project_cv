@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CV Groot</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/main.js"></script>
   </head>
   <body>
     <header>
@@ -13,26 +14,26 @@
       ?>
     </header>
     <main>
-      <div>
+      <div id="profil">
       <?php
        include "_profil.php"; 
       ?>
       </div>
-      <div>
+      <div id="competences">
       <?php
        include "_competences.php"; 
       ?>
       </div>
-      <div>
+      <div id="experiences">
       <?php
        include "_experiences.php"; 
       ?>
       </div>
-      <div>
+      <div id="formation">
       <?php
        include "_formation.php"; 
       ?>
-      </div>
+      </div id="loisirs">
       <div>
       <?php
        include "_loisirs.php"; 

@@ -34,7 +34,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 5rem;
+   
     
   }
 
@@ -80,6 +80,34 @@
   }
 
   
+  .parallelogram {
+  width: 18rem;
+	height: 1.2rem;
+  margin-top: 0.5rem;
+	transform: skew(20deg);
+  display: flex;
+  justify-content: space-around;
+	background: var(--text-color);
+  }
+
+
+  .leaf {
+    content: ' ';
+    background: darkolivegreen;
+    height: 1rem;
+    width: 2rem;
+    border-radius: 50%;
+  }
+
+  .emptyleaf {
+    background: var(--text-color);
+    content: ' ';
+    height: 1rem;
+    width: 2rem;
+    border-radius: 50%;
+  }
+  
+
   
   
   

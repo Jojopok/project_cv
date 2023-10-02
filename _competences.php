@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="photoboxMartha">
 <img class="photogrootMartha" src="assets/images/GrootComp.jpg"/>
 </div>
@@ -7,21 +8,60 @@
 <section class="skill-rating" id="skill-rating">
     <skill>
         <p>Jardinage</p>
-    </skill>
+    </skill> 
     <skill>
-        <p class="branch">Branch</p>
+    <div class="parallelogram">
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+</div>
     </skill>
     <skill>
       <p>Botaniste</p>
     </skill>
     <skill>
-        <p class="branch">Branch</p>
+    <div class="parallelogram">
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+</div>
     </skill>
     <skill>
         <p>Regeneriste</p>
     </skill>
     <skill>
-        <p class="branch">Branch</p>
+    <div class="parallelogram">
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+</div>
     </skill>
 </section>
 <section class="skill-rating" id="skill-rating">
@@ -29,21 +69,62 @@
         <p>Comedie</p>
     </skill>
     <skill>
-        <p class="branch">Branch</p>
+    <div class="parallelogram">
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+</div>
     </skill>
     <skill>
       <p>Management</p>
     </skill>
     <skill>
-        <p class="branch">Branch</p>
+    <div class="parallelogram">
+    <i class="leaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+</div>
     </skill>
     <skill>
         <p>Linguistiques</p>
     </skill>
     <skill>
-    <p class="branch">Branch</p>
+    <div class="parallelogram">
+    <i class="leaf">
+        
+    </i>
+    <i class="leaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+    <i class="emptyleaf">
+        
+    </i>
+</div>
     </skill>
 </section>
+
+
 
 
 
