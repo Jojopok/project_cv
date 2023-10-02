@@ -66,22 +66,44 @@ section.loisirs {
  justify-content: center;
 }
 
-/* CSS pour la cellule "loisir1" */
+@media screen and (max-width: 768px) {
+  section.loisirs {
+    grid-template-columns: 1fr; /* You can adjust this to your preferred layout for smaller screens */
+    gap: 2rem; 
+    display: flex; /* Use flexbox to center content */
+    flex-direction: column; /* Stack content vertically */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    text-align: center; /* Center text within cells */
+    
+  }
+  
+}
+
 loisir {
   display: flex;
-  color: #FFFFFF; /* Couleur du texte */
+  color: #FFFFFF; 
   font-family: "inter", sans-serif;
   text-align: center;
   justify-content: center; 
   border-radius: 0.5rem;
   box-shadow: -2px 5px 10px rgb(0 0 0 / 20%);
-  overflow: hidden; /* Masquer tout contenu débordant de la cellule */
+  overflow: hidden; 
   position: relative;
   padding: 8rem 15rem;
   max-height: 17rem;
   
 }
 
+@media screen and (max-width: 768px) {
+  loisir {
+    padding: 5rem; /* Adjust padding to make the cells narrower */
+    width: 20rem;
+  }
+}
+
+
+    
 /* CSS pour l'image à l'intérieur de la cellule */
 .loisir1 img {
   width: 100%; /* L'image prend la largeur de la cellule "loisir1" */
