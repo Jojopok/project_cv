@@ -31,7 +31,7 @@
     text-shadow: var(--text-color) 2px 0 12px;
     padding: 0.5rem;
     margin: 2.5rem;
-    color: #1C7C54;
+    color: #9b3314;
     border: none;
     border-radius: 10px;
     float: center;
@@ -67,6 +67,7 @@
   .divtextprofil > p {
     display: flex;
     justify-content: space-around;
+    size: clamp(1rem, 2.5vw, 3rem); 
     
     
   }
