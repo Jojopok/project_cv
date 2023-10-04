@@ -1,7 +1,7 @@
 <div class="photoform"></div>
 
 <div>
-<img class="photogform" src="assets/images/grootdanse.jpg" alt="Photo de Groot"/>
+<img class="photogform" src="assets/images/gifdanse.gif" alt="git Groot"/>
 </div>
 <div class="titreform">
     Formation

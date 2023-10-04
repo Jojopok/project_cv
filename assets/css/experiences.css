@@ -54,8 +54,16 @@
     float: center;
     flex-wrap : wrap;
     justify-content :space-around;
+    height: auto;
 
   @media screen and (min-width: 600px) { 
+
+    .photog {
+      display : flex;
+      float: left;
+  width: 25%;
+  height: 300px;
+    }
     .p1{
    display : flex;
     background-color:#C3D295;
@@ -68,12 +76,13 @@
     font-size: 1.2rem;
     font-family: "inter", sans-serif;
 
-  float: left;
+  float: center;
   width: 50%;
   height: 300px;
 
 
     } 
+    
     .p2{
       display : flex;
     background-color:#C3D295;
@@ -86,10 +95,9 @@
     font-size: 1.2rem;
     font-family: "inter", sans-serif;
 
-         float: right;
+      float: right;
       width: 50%;
       height: 300px;
-    
-
+  
     }
  }}
