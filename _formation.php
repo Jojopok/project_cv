@@ -3,6 +3,8 @@
 <div>
 <img class="photogform" src="assets/images/gifdanse.gif" alt="git Groot"/>
 </div>
+
+
 <div class="titreform">
     Formation
 </div>
@@ -11,22 +13,27 @@
 
    <h3>💥 2010-2014</h3> 
     <br>
-<p>
+<p1>
 
 
-Rôle : Étudiant<br>
+RÔLE : Étudiant<br><br>
 
-École : L'Académie Kree<br>
+ÉCOLE : L'Académie Kree<br><br>
 
-Lieu : Hala, Kree-Lar<br>
+LIEU: Hala, Kree-Lar<br><br><br>
 
-Missions :<br><br>
+MISSIONS :<br>
 
 > Apprendre les arts martiaux Kree<br>
 
 > Se familiariser avec les technologies Kree<br>
 
-> Se préparer à une carrière dans l'armée Kree<br>
-</p>
+> Se préparer à une carrière dans l'armée Kree<br><br>
+</p1>
  
+<p2>
+
+<img class="enerve" src="assets/images/grenervé.jpg" alt="enerve"/>
+
+</p2>
 </div>

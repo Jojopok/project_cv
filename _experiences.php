@@ -15,7 +15,7 @@ RÔLE : Gardien de la Galaxie<br>
 ENTREPRISE : Les Gardiens de la Galaxie<br>
 LIEU : Partout dans l'univers<br><br>
 
-MISSIONS <br>
+MISSIONS :<br>
  > Protéger l'univers des menaces <br>
  > Combattre les forces du mal <br>
  > Aider les innocents <br>
