@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="photoboxMartha">
-<img class="photogrootMartha" src="assets/images/GrootComp.jpg"/>
+<img class="photogrootMartha" src="assets/images/groot comp.jpg"/>
 </div>
 <div class="titre-competences">
     <h2>Compétences</h2>
@@ -28,7 +28,7 @@
 
     <div class="skill-rating1" id="skill-rating1">
     <skill>
-      <p>Botaniste</p>
+      <p>Botanique</p>
     </skill>
     <div class="parallelogram">
     <i class="leaf">
@@ -46,7 +46,7 @@
 </div>
 </div>
     <div class="skill-rating1" id="skill-rating1">
-        <p>Regeneriste</p>
+        <p>Régéneracion</p>
     <div class="parallelogram">
     <i class="leaf">
         
@@ -66,7 +66,7 @@
 </div>
 <div class="skill-rating1" id="skill-rating1">
     
-        <p>Comedie</p>
+        <p>Comédie</p>
     <div class="parallelogram">
     <i class="leaf">
         
@@ -84,7 +84,7 @@
 </div>
     
     <div class="skill-rating1" id="skill-rating1">
-      <p>Management</p>
+      <p>Gestion</p>
     
     <div class="parallelogram">
     <i class="leaf">
