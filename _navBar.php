@@ -22,9 +22,7 @@
 
 <a href="#closing" id="openBtn">
   <span class="burger-icon">
-    <span></span>
-    <span></span>
-    <span></span>
+    <img class="hambbutton" src="assets/images/hamb.png" alt="">
   </span>
 </a>
 
