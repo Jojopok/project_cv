@@ -62,3 +62,16 @@ const cible8 = document.getElementById("loisirs");
 bouton8.addEventListener("click", () => {
     cible8.scrollIntoView({ behavior: "smooth" }); 
 });
+
+const bouton9 = document.getElementById("grootId");
+const cible9 = document.getElementById("profil");
+bouton9.addEventListener("click", () => {
+    cible9.scrollIntoView({ behavior: "smooth" }); 
+});
+
+const bouton10 = document.getElementById("grootSide");
+const cible10 = document.getElementById("profil");
+bouton10.addEventListener("click", () => {
+    cible10.scrollIntoView({ behavior: "smooth" }); 
+});
+
