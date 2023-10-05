@@ -27,11 +27,12 @@
 
 
 .titre {
-    background-color: var(--box-color);
-    text-shadow: var(--text-color) 2px 0 12px;
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    background-color: var(--headings-box);
     padding: 0.5rem;
-    margin: 2.5rem;
-    color: var(--text-color);
+    color: var(--headings-text);
     border: none;
     border-radius: 10px;
     float: center;
@@ -51,7 +52,9 @@
   .divtextprofil {
     background-color:var(--box-color);
     padding: 1.5rem;
-    margin: 2.5rem;
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
     color: var(--text-color);
     border: none;
     border-radius: 10px;
