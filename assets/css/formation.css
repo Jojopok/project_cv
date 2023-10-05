@@ -13,12 +13,12 @@
   display : flex;
   justify-content : center;
   align-items: center;
-  background-color: #C3D295;
+  background-color: var(--box-color);
   line-height: 150%;
   text-shadow: #683e0b 2px 0 12px;
   padding: 0.2rem;
   margin: 0.5rem;
-  color: #614942;
+  color: var(--text-color);
   border: none;
   border-radius: 10px;
   float: center;
@@ -31,10 +31,10 @@
 
 .divtextf {
   display:flex;
-  background-color:#C3D295;
+  background-color:var(--box-color);
   padding: 1.5rem;
   margin: 1rem;
-  color: #614942;
+  color: var(--text-color);
   border: none;
   border-radius: 10px;
   float: center;
@@ -53,11 +53,11 @@
 
   .p1{
     display : flex;
-     background-color:#C3D295;
+     background-color:var(--box-color);
      padding: 1.5rem;
      float: left;
      margin: 1rem;
-     color: #614942;
+     color: var(--text-color);
      border: none;
      border-radius: 10px;
      height: 40rem;
