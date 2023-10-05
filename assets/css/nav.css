@@ -2,7 +2,7 @@
     background-color: var(--headings-box);
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-between;
     width: 100%;
     padding: 0.5rem;
     position: fixed;
@@ -26,15 +26,15 @@
     color: var(--headings-text);
     padding: 0.75rem;
     font-weight: bold;
-    font-size: clamp(1rem, 1vw, 5rem);
+    font-size: clamp(2rem, 1vw, 5rem);
     list-style-type: none;
     cursor: pointer;
     font-family: "inter", sans-serif;
   }
 
   .groot {
-    display: flex;
-    align-items: center;
+    align-items: flex-start;
+    margin-top: 1rem;
 
     
   }
@@ -58,7 +58,7 @@
         display: none;
       }
        .navbar {
-        display: block;
+        display: flex;
        }
        .sidenav {
         display: none;

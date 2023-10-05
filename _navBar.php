@@ -1,6 +1,6 @@
 <div class="navbarcontainer">
 <nav class="navbar">
-<p id="groot" class="groot">GROOT </p>
+<img src=assets/images/Grootlogo.png id="groot" class="groot"></img>
       <ul>
         <li><a id="competences2" >Compétences</a></li>
         <li><a id="experiences2">Expériences</a></li>
