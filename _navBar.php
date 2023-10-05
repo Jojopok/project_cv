@@ -17,14 +17,13 @@
         <li><a id="experiences3">Expériences</a></li>
         <li><a id="formation3">Formation</a></li>
         <li><a id="loisirs3">Loisirs</a></li>
+        <li><a id="loisirs3">Loisirs</a></li>
   </ul>
 </div>
 
 <a href="#closing" id="openBtn">
   <span class="burger-icon">
-    <span></span>
-    <span></span>
-    <span></span>
+    <img class="hambbutton" src="assets/images/hamb.png" alt="">
   </span>
 </a>
 
