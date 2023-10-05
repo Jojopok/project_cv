@@ -80,20 +80,20 @@
 	transform: skew(20deg);
   display: flex;
   justify-content: space-around;
-	background: var(--headings-box);
+	background: #5E3023;
   }
 
 
   .leaf {
     content: ' ';
-    background: var(--darker-primary-color);
+    background: #BEDBAE;
     height: 2.5vw;
     width: 5vw;
     border-radius: 50%;
   }
 
   .emptyleaf {
-    background: var(--headings-box);
+    background: #5E3023;
     content: ' ';
     height: 2.5vw;
     width: 5vw;
