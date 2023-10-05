@@ -27,7 +27,7 @@
     </div>
     <div class ="footerContainer">
       <div class ="footerColonne">
-      <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/logoinstafooter.png" alt=""widh="70" height="70"></a>
+      <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/instagramgroot.gif" alt=""widh="70" height="70"></a>
       </div>
       <div class ="footerColonne">
         <p>#GROOT</P> <p>#degeneriste</p>#management</p><p>#Botaniste </p><p>#linguiste</p>
