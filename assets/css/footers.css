@@ -1,5 +1,5 @@
   .footerBase {
-    background-color: #BCD979;
+    background-color:var(--box-color) ;
 
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
@@ -28,10 +28,12 @@
 
   .footerContainer img {
     padding-right: 1rem;
+    display: flex;
+    border-radius: 70%;
   }
 
 .footerContainer span {
   color:var(--text-color);
-  font-size: 2cap;
+  font-size: 1rem;
 }  
     
