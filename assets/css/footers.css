@@ -29,7 +29,7 @@
   .footerContainer img {
     padding-right: 1rem;
     display: flex;
-    border-radius: 70%;
+    border-radius: 100%;
   }
 
 .footerContainer span {
