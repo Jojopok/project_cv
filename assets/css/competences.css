@@ -5,11 +5,11 @@
 }
 
 .titre-competences {
-    background-color: var(--box-color);
+    background-color: var(--headings-box);
     
     padding: 0.5rem;
     margin: 2.5rem;
-    color: #C0C1BA;
+    color: var(--headings-text);
     border: none;
     border-radius: 10px;
     display: flex;
@@ -79,20 +79,20 @@
 	transform: skew(20deg);
   display: flex;
   justify-content: space-around;
-	background: var(--darker-primary-color);
+	background: var(--headings-box);
   }
 
 
   .leaf {
     content: ' ';
-    background: var(--light-primary-color);
+    background: var(--darker-primary-color);
     height: 2.5vw;
     width: 5vw;
     border-radius: 50%;
   }
 
   .emptyleaf {
-    background: var(--darker-primary-color);
+    background: var(--headings-box);
     content: ' ';
     height: 2.5vw;
     width: 5vw;

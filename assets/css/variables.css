@@ -1,11 +1,13 @@
 :root {
-    --box-color: #C3D295;
+    --box-color: white;
     --light-primary-color: #FFFFFF;
     --darker-primary-color: #D9D9D9;
-    --text-color: red ;
+    --text-color: black ;
     --body-text-size: clamp(1rem, 5vw, 3rem);
     --section-title-font-size: clamp(1rem, 5vw, 3rem);
     --filter: drop-shadow(2px 3px black);
-}
+    --headings-box: #86353D;
+    --headings-text: #F2F0F1;
+} 
 
 
