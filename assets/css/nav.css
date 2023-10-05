@@ -56,6 +56,18 @@
      }
     }
 
+    @media screen and (min-width: 900px) {
+      .hambbutton {
+        display: none;
+      }
+       .navbar {
+        display: block;
+       }
+       .sidenav {
+        display: none;
+      }
+      }
+
 
     /* Sidenav menu */
 .sidenav {
