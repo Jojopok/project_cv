@@ -32,6 +32,9 @@
     font-family: "inter", sans-serif;
   }
 
+  .navbar ul li a:hover {
+    color: #111;
+  }
   .groot {
     align-items: flex-start;
     margin-top: 1rem;
