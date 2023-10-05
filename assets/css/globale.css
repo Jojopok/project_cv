@@ -31,7 +31,7 @@
     text-shadow: var(--text-color) 2px 0 12px;
     padding: 0.5rem;
     margin: 2.5rem;
-    color: #9b3314;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     float: center;
@@ -49,10 +49,10 @@
   }
 
   .divtextprofil {
-    background-color:#C3D295;
+    background-color:var(--box-color);
     padding: 1.5rem;
     margin: 2.5rem;
-    color: #614942;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     float: center;
