@@ -1,7 +1,7 @@
 <div class="photoform"></div>
 
 <div>
-<img class="photogform" src="assets/images/gifdanse.gif" alt="git Groot"/>
+<img class="ecole" src="assets/images/grootecole.jpg" alt="gecole"/>
 </div>
 
 
@@ -15,7 +15,7 @@
     <br>
 <p1>
 
-
+<br>
 RÔLE : Étudiant<br><br>
 
 ÉCOLE : L'Académie Kree<br><br>
@@ -33,7 +33,9 @@ MISSIONS :<br>
  
 <p2>
 
-<img class="enerve" src="assets/images/grenervé.jpg" alt="enerve"/>
+
+<img class="photogform" src="assets/images/gifdanse.gif" alt="git Groot"/>
+
 
 </p2>
 </div>

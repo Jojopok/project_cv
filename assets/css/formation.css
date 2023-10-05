@@ -1,12 +1,8 @@
-* {
-  margin: 0%;
-  padding: 0%;
-  box-sizing: border-box; }
-
-.photogform {   
+.ecole{   
   display: block;
   margin: auto;
-  width: 50%;
+  width:15rem;
+    height: 15rem;
   border-radius: 70%;
   justify-content : center;
 }
@@ -20,8 +16,8 @@
   background-color: #C3D295;
   line-height: 150%;
   text-shadow: #683e0b 2px 0 12px;
-  padding: 0.5rem;
-  margin: 2.5rem;
+  padding: 0.2rem;
+  margin: 0.5rem;
   color: #614942;
   border: none;
   border-radius: 10px;
@@ -32,12 +28,6 @@
   height: auto;
 }
 
-.enerve {
-  display: block;
-margin: auto;
-width: 50%;
-border-radius: 70%;
-}
 
 .divtextf {
   display:flex;
@@ -54,8 +44,12 @@ border-radius: 70%;
   flex-wrap : wrap;
   justify-content :space-around;
    height: auto;
+   .photogform {
+    display: none
+    }
 
-@media screen and (min-width: 600px) { 
+  
+@media screen and (min-width: 887px) { 
 
   .p1{
     display : flex;
@@ -77,9 +71,17 @@ border-radius: 70%;
     flex-wrap : wrap;
     justify-content :space-around;
     height: auto;
-    
    
   }
+  .photogform {
+    display: flex;
+    margin: auto;
+    width: 75%;
+    height: auto;
+    border-radius: 70%;
+    flex-wrap: wrap ;
+
+    }
  
      } }
     
