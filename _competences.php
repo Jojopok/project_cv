@@ -5,7 +5,7 @@
 <div class="titre-competences">
     <h2>Compétences</h2>
 </div>
-<section class="skill-rating" id="skill-rating">
+<div class="skill-rating1" id="skill-rating1">
     <skill>
         <p>Jardinage</p>
     </skill> 
@@ -24,11 +24,12 @@
         
     </i>
 </div>
-    </skill>
+</div>
+
+    <div class="skill-rating1" id="skill-rating1">
     <skill>
       <p>Botaniste</p>
     </skill>
-    <skill>
     <div class="parallelogram">
     <i class="leaf">
         
@@ -43,11 +44,9 @@
         
     </i>
 </div>
-    </skill>
-    <skill>
+</div>
+    <div class="skill-rating1" id="skill-rating1">
         <p>Regeneriste</p>
-    </skill>
-    <skill>
     <div class="parallelogram">
     <i class="leaf">
         
@@ -62,13 +61,12 @@
         
     </i>
 </div>
+</div>
     </skill>
-</section>
-<section class="skill-rating" id="skill-rating">
-    <skill>
+</div>
+<div class="skill-rating1" id="skill-rating1">
+    
         <p>Comedie</p>
-    </skill>
-    <skill>
     <div class="parallelogram">
     <i class="leaf">
         
@@ -83,11 +81,11 @@
         
     </i>
 </div>
-    </skill>
-    <skill>
+</div>
+    
+    <div class="skill-rating1" id="skill-rating1">
       <p>Management</p>
-    </skill>
-    <skill>
+    
     <div class="parallelogram">
     <i class="leaf">
         
@@ -102,11 +100,11 @@
         
     </i>
 </div>
+</div>
     </skill>
-    <skill>
+    <div class="skill-rating1" id="skill-rating1">
         <p>Linguistiques</p>
-    </skill>
-    <skill>
+    
     <div class="parallelogram">
     <i class="leaf">
         
@@ -120,9 +118,9 @@
     <i class="emptyleaf">
         
     </i>
+
 </div>
-    </skill>
-</section>
+</div>
 
 
 

@@ -48,7 +48,7 @@
   
   
   
-  section.skill-rating {
+  .skill-rating1 {
     color: var(--text-color);
     padding: 1.5rem;
     margin: 2.5rem;
@@ -65,11 +65,15 @@
      
   }
     
-  section.skill-rating > h2 {
+  h2 {
     grid-column: 1 / -1;
   }
      
-  
+  @media screen and (min-width: 768px) {
+    section.skill-rating {
+      margin: 0;
+    }
+  }
 
   
   .parallelogram {
