@@ -8,7 +8,7 @@
     </ul>
 </div>
 <div class="divtextprofil">
-    <p>Je s'apelle Groot<br>
+    <p>Je s'appelle Groot<br>
     <br>
     Arbre sentient 
     <br> 

@@ -1,5 +1,5 @@
 .navbar {
-    background-color: var(--box-color);
+    background-color: var(--headings-box);
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -23,23 +23,21 @@
   }
 
   .navbar ul li a {
-    display: flex;
-    align-items: center;
-    color: var(--text-color);
+    color: var(--headings-text);
     padding: 0.75rem;
     font-weight: bold;
-    font-size: clamp(0.75rem, 1vw, 5rem);
+    font-size: clamp(1rem, 1vw, 5rem);
     list-style-type: none;
-    text-decoration: none;
+    cursor: pointer;
     font-family: "inter", sans-serif;
-    
-    
   }
 
-/*   html {
-    scroll-behavior: smooth;
-  } */
+  .groot {
+    display: flex;
+    align-items: center;
 
+    
+  }
 
   .hambbutton {
     display: none;
