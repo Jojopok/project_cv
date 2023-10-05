@@ -6,21 +6,21 @@
         
         <div class="footerContainer">
           <img src="assets/images/planetfooter.png" alt="" widh="40" height="50">
-          <h2>  Adresse</h2>
+          <span>Adresse</span>
         </div>
         <p>PLanet KREK, rue PC </p> 
       </div>
       <div class ="footerColonne">
       <div class="footerContainer">
       <img src="assets/images/phone.png" alt="" widh="50" height="50">  
-      <h2>Téléphone</h2>
+      <span>Téléphone</span>
       </div>
-      <p>"3 6776(-ç///3)"< ? php> </p>
+      <p>0556578989< ? php>08 </p>
       </div>
       <div class ="footerColonne">
       <div class="footerContainer">
       <img src="assets/images/emailfooter.png" alt="" widh="50" height="50"> 
-        <h2>Email</h2>
+        <span>Email</span>
       </div>
         <p>GrootCV@groot.world</p>
       </div>
@@ -34,7 +34,7 @@
 
       </div>
       <div class ="footerColonne">
-        <a href="top">Backtotop</a>
+        <a href="top"><img src="assets/images/backtop.png" alt=""widh="70" height="70"></a>
       </div>
     </div>
   </div>
