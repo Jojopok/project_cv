@@ -17,6 +17,7 @@
         <li><a id="experiences3">Expériences</a></li>
         <li><a id="formation3">Formation</a></li>
         <li><a id="loisirs3">Loisirs</a></li>
+        <li><a id="loisirs3">Loisirs</a></li>
   </ul>
 </div>
 
