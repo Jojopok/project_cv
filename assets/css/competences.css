@@ -27,7 +27,7 @@
     justify-content: center;
     box-shadow: 0 0 10px black;
     width: 15rem;
-    height: 15rem;
+    height: 17rem;
 }
 
   .photoboxMartha {
@@ -52,7 +52,8 @@
     color: var(--text-color);
     padding: 1.5rem;
     margin: 2.5rem;
-    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    font-size: 2.2rem;
     border-radius: .5rem;
     background-color: var(--box-color);
     box-shadow: 0 0 10px black; 
@@ -61,7 +62,7 @@
     margin-bottom: 1rem;
     gap: 1rem;
     float: center;
-  
+    font-family: "inter", sans-serif;
      
   }
     
@@ -69,11 +70,7 @@
     grid-column: 1 / -1;
   }
      
-  @media screen and (min-width: 768px) {
-    section.skill-rating {
-      margin: 0;
-    }
-  }
+ 
 
   
   .parallelogram {
