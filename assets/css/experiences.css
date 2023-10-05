@@ -1,10 +1,11 @@
 
  .photog {   
-    display: block;
-    margin: auto;
-    width: 30%;
-    border-radius: 70%;
-    justify-content : center;
+  display: block;
+  margin: auto;
+  width:15rem;
+  height: 15rem;
+  border-radius: 70%;
+  justify-content : center;
 }
 
   .photob {
@@ -18,12 +19,12 @@
     display : flex;
     justify-content : center;
     align-items: center;
-    background-color: #C3D295;
+    background-color:var(--box-color);
     line-height: 140%;
     text-shadow: #683e0b 2px 0 12px;
     padding: 0.5rem;
     margin: 2.5rem;
-    color: #614942;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     float: center;
@@ -34,10 +35,10 @@
 
   .textexp {
     display : flex;
-    background-color:#C3D295;
+    background-color:var(--box-color);
     padding: 1.5rem;
     margin: 1rem;
-    color: #614942;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     height: 40rem;
@@ -59,10 +60,10 @@
     }
     .p1{
    display : flex;
-    background-color:#C3D295;
+    background-color:var(--box-color);
     padding: 1.5rem;
     margin: 1rem;
-    color: #614942;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     height: 40rem;
@@ -78,10 +79,10 @@
     
     .p2{
       display : flex;
-    background-color:#C3D295;
+    background-color:var(--box-color);
     padding: 1.5rem;
     margin: 1rem;
-    color: #614942;
+    color: var(--text-color);
     border: none;
     border-radius: 10px;
     height: 40rem;
