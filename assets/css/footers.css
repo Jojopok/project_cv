@@ -1,5 +1,8 @@
   .footerBase {
     background-color:var(--box-color) ;
+    color: var(--headings-box);
+    color:var(--text-color);
+    
 
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
@@ -29,11 +32,25 @@
   .footerContainer img {
     padding-right: 1rem;
     display: flex;
-    border-radius: 70%;
+    border-radius: 100%;
+    color: var(--box-color);
   }
 
 .footerContainer span {
   color:var(--text-color);
-  font-size: 1rem;
+  font-size: 2rem;
 }  
-    
+
+
+
+@media screen and (max-width: 768px) {
+  .footerBase {
+    padding: 2rem; /* Réduisez le padding pour les écrans de petite taille */
+    width: 25rem; /* La largeur s'étend sur toute la largeur de l'écran */
+    height: 13rem;
+    max-width: none;
+    max-height: none;
+    margin-bottom: 20px; /* Réduisez l'espacement entre les cellules */
+   
+  }
+}

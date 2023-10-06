@@ -14,8 +14,9 @@
       <div class="footerContainer">
       <img src="assets/images/phone.png" alt="" widh="50" height="50">  
       <span>Téléphone</span>
-      </div>
-      <p>0556578989< ? php>08 </p>
+    
+ </div>
+      <p>055657898908 </p>
       </div>
       <div class ="footerColonne">
       <div class="footerContainer">
@@ -26,15 +27,18 @@
       </div>
     </div>
     <div class ="footerContainer">
+      <di class ="footerColonne">
+      
+    <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/insta2.png" alt=""widh="100" height="100"></a>
+        
+  </di>
       <div class ="footerColonne">
-      <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/logoinstafooter.png" alt=""widh="100" height="100"></a>
-      </div>
-      <div class ="footerColonne">
-        <p>#GROOT</P> <p>#degeneriste</p>#management</p><p>#Botaniste </p><p>#linguiste</p>
+      <a href="https://www.gifimili.com/images-les-gardiens-de-la-galaxie/" target="_blank"><img src="https://www.gifimili.com/gif/2018/05/groot-danse.gif" border="0" alt="Groot danse"></a>
+        
 
       </div>
       <div class ="footerColonne">
-        <a href="top"><img src="assets/images/backtop.png" alt=""widh="70" height="70"></a>
+        <a href="top"><img src="assets/images/flechefooter.png" alt=""widh="70" height="70"></a>
       </div>
     </div>
   </div>
