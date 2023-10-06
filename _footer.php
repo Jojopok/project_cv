@@ -15,7 +15,7 @@
       <img src="assets/images/phone.png" alt="" widh="50" height="50">  
       <span>Téléphone</span>
       </div>
-      <p>0556578989< ? php>08 </p>
+      <p>055657898908 </p>
       </div>
       <div class ="footerColonne">
       <div class="footerContainer">
@@ -30,11 +30,11 @@
       <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/insta2.png" alt=""widh="100" height="100"></a>
       </di>
       <div class ="footerColonne">
-        <p>#GROOT</P> <p>#degeneriste</p>#management</p><p>#Botaniste </p><p>#linguiste</p>
+        <p>#GROOT</P> 
 
       </div>
       <div class ="footerColonne">
-        <a href="top"><img src="assets/images/backtop.png" alt=""widh="70" height="70"></a>
+        <a href="top"><img src="assets/images/flechefooter.png" alt=""widh="70" height="70"></a>
       </div>
     </div>
   </div>
