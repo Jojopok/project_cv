@@ -7,21 +7,21 @@
         
         <div class="footerContainer">
           <img src="assets/images/planetfooter.png" alt="" widh="40" height="50">
-          <span>Adresse</span>
+          <span></span>
         </div>
-        <p>PLanet KREK, rue PC </p> 
+        <p>Planet KREK</p> 
       </div>
       <div class ="footerColonne">
        <div class="footerContainer">
         <img src="assets/images/phone.png" alt="" widh="50" height="50">  
-          <span>Téléphone</span>
+          <span></span>
         </div>
          <p>055657898908 </p>
       </div>
       <div class ="footerColonne">
       <div class="footerContainer">
       <img src="assets/images/emailfooter.png" alt="" widh="50" height="50"> 
-        <span>Email</span>
+        <span></span>
       </div>
         <p>GrootCV@groot.world</p>
       </div>
