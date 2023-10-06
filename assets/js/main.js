@@ -27,16 +27,19 @@ bouton4.addEventListener("click", () => {
 var sidenav = document.getElementById("mySidenav");
 var openBtn = document.getElementById("openBtn");
 var closeBtn = document.getElementById("closeBtn");
+var burger = document.getElementsByClassName("burger-icon")[0];
 
 openBtn.onclick = openNav;
 closeBtn.onclick = closeNav;
 
 function openNav() {
   sidenav.classList.add("active");
+  burger.style = 'display:none';
 }
 
 function closeNav() {
   sidenav.classList.remove("active");
+  burger.style = 'display:block';
 }
 
 const bouton5 = document.getElementById("competences3");
