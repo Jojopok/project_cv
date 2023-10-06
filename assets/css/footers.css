@@ -1,8 +1,6 @@
   .footerBase {
     
-    background-color:var(--box-color) ;
-    color: var(--headings-box);
-    color:var(--text-color);
+    background-color:var(--headings-box) ;
     width: 100vw;
 
     border-top-left-radius: 1rem;
@@ -21,7 +19,7 @@
 
 
   .footerContainer {
-    
+    margin-left: 0.75rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -29,6 +27,7 @@
     color:var(--text-color);
 
   }
+
 
   .footerContainer img {
     padding-right: 1rem;
