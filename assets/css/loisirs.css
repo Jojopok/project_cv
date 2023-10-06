@@ -1,8 +1,7 @@
 
 
 .titreloisir {
-  background-color: var( --headings-box);
-  
+  background-color: var( --headings-box); 
   padding: 0.5rem;
   margin: 2.5rem;
   color: var(--headings-text);
@@ -16,6 +15,7 @@
   width: 80%;
   margin: auto;
   margin-bottom: 3rem;
+  box-shadow: 0 0 10px black;
   
 }
 
