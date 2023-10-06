@@ -46,7 +46,7 @@
 </div>
 </div>
     <div class="skill-rating1" id="skill-rating1">
-        <p>Régéneracion</p>
+        <p>Régéneration</p>
     <div class="parallelogram">
     <i class="leaf">
         

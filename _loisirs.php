@@ -1,5 +1,5 @@
 <div class="photoboxloisir">
-<img class="photogrootloisir" img src="assets/images/Groot_loisirs.jpg" alt="Photo Loisirs Groot"/>
+<img class="photogrootloisir" img src="assets/images/groot_skate.jpg" alt="Photo Loisirs Groot"/>
 </div>
 
 
