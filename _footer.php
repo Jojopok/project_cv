@@ -14,6 +14,7 @@
       <div class="footerContainer">
       <img src="assets/images/phone.png" alt="" widh="50" height="50">  
       <span>Téléphone</span>
+      <br>
       </div>
       <p>055657898908 </p>
       </div>
@@ -27,8 +28,10 @@
     </div>
     <div class ="footerContainer">
       <di class ="footerColonne">
-      <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/insta2.png" alt=""widh="100" height="100"></a>
-      </di>
+      
+    <a href="https://www.instagram.com/babygrootbabygroot/"><img src="assets/images/insta2.png" alt=""widh="100" height="100"></a>
+        
+  </di>
       <div class ="footerColonne">
         <p>#GROOT</P> 
 

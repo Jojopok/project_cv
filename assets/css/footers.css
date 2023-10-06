@@ -21,7 +21,7 @@
   .footerContainer {
     
     display: flex;
-    align-items: center;
+    align-items:end;
     justify-content: space-around;
     width: 100%;
     padding: 0.5rem;
@@ -40,6 +40,9 @@
   color:var(--text-color);
   font-size: 2rem;
 }  
+.footerContainer p {
+  justify-content: flex-end;
+}
 
 
 
