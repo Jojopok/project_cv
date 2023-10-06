@@ -1,8 +1,8 @@
 .navbar {
-    background-color: var(--box-color);
+    background-color: var(--headings-box);
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-between;
     width: 100%;
     padding: 0.5rem;
     position: fixed;
@@ -23,23 +23,25 @@
   }
 
   .navbar ul li a {
-    display: flex;
-    align-items: center;
-    color: var(--text-color);
+    color: var(--headings-text);
     padding: 0.75rem;
     font-weight: bold;
-    font-size: clamp(0.75rem, 1vw, 5rem);
+    font-size: clamp(2rem, 1vw, 5rem);
     list-style-type: none;
-    text-decoration: none;
+    cursor: pointer;
     font-family: "inter", sans-serif;
-    
-    
   }
 
-/*   html {
-    scroll-behavior: smooth;
-  } */
+  .navbar ul li a:hover {
+    color: #111;
+  }
+  .groot {
+    align-items: flex-start;
+    margin-top: 1rem;
+    cursor: pointer;
 
+    
+  }
 
   .hambbutton {
     display: none;
@@ -60,7 +62,7 @@
         display: none;
       }
        .navbar {
-        display: block;
+        display: flex;
        }
        .sidenav {
         display: none;
