@@ -78,7 +78,7 @@
 
   
   .parallelogram {
-  width: clamp(35vw, 1vw, 40vw);
+  width: clamp(28vw, 1vw, 40vw);
 	height: 3vw;
   margin-top: 0.5rem;
 	transform: skew(20deg);
